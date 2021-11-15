@@ -4,10 +4,7 @@
 
  ![タイトル](TrilobiteRiversi/title.png) 
 
-# DEMO
- 
- デモ動画は"demo.mp4"という名前であります．
-
+# IMAGES
  <img src="img/top.PNG" width=50%>
 
  <img src="img/game.PNG" width=50%>
@@ -23,11 +20,6 @@
  Eclipseで実行することを推奨します．
  Eclipseの最新バージョン(2021)での動作を確認しました．
  
-# Installation
- 
- Eclipse日本語版はここから入手できます．
-
- Pleiades All in One(日本語プラグイン付き): https://mergedoc.osdn.jp/
  
 # Usage
  
@@ -37,13 +29,13 @@
 
  コンパイル後，始めに"MyServer2.java"を実行してください．実行するとサーバが起動します．
 
- <img src="goServer.PNG" width=50%>
+ <img src="img/goServer.PNG" width=50%>
 
  起動後に，"MyClientTop.java"を実行し，名前とipアドレスを入力してください．(他端末と通信して対戦しない場合はipアドレスは入力しないでください).
 
- ![名前入力](inputname.PNG)
+ ![名前入力](img/inputname.PNG)
 
- ![ip入力](inputip.PNG)
+ ![ip入力](img/inputip.PNG)
 
  タイトル画面が表示されますので，STARTを押してプレイしてください．
  
@@ -62,4 +54,4 @@
  
 # Author
  
- * 石村 爽真
+ * Ra64i
