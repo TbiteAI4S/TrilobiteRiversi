@@ -93,8 +93,3 @@
 
  The java file is written in Shift-JIS. If you encounter garbled characters, change the character encoding to Shift-JIS and load the file.
  ***
-
-
-# Author
- 
- * Ra64i
